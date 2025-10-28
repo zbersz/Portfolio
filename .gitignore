@@ -1,5 +1,11 @@
+# Node
 node_modules/
-dist/
 .cache/
+dist/
+build/
 .env
 *.log
+
+# Editor
+.vscode/
+.idea/
