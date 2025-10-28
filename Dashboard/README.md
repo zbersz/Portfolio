@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dashboard.png" alt="Dashboard Preview" width="800">
+  <img src="./dashboard.png" alt="Dashboard Preview" width="1000">
 </p>
 
 # Getting Started with Create React App
